@@ -14,22 +14,17 @@ The riskguard project integrates the development of two key indicators for publi
 - Text Mining techniques for procurement texts.
 
 The project structure is as follows
-
+```bash
 RiskGuard/
-│
 ├── Collusion/
-│   │
-│   ├── 1.Data_Preprocessing.ipynb                  # Data preprocessing of procurement contracts
-│   │
-│   ├── 2.Unsupervised_Approach.ipynb               # Construction of bid-rigging indicators
-│   │
-│   ├── 3.Arquivo.ipynb                  # Data collection & enrichment (e.g., Arquivo.pt)
+│   ├── 1.Data_Preprocessing.ipynb
+│   ├── 2.Unsupervised_Approach.ipynb
+│   ├── 3.Arquivo.ipyn
 │
-├── Text analysis in public procurement/
-│   ├── 0_EDA.ipynb                  # Exploratory Data Analysis of procurement data
-│   │
-│   ├── 1_indicators/                # Construction of risk indicators realted to exception regimes and the contractual object
-│   │
-│   ├── 2_scrape/                    # Data collection & enrichment with other procurement procedures
+├── Text_analysis_public_procurement/
+│   ├── 0_EDA.ipynb
+│   ├── 1_indicators/
+│   ├── 2_scrape/
 │
 └── README.md
+```
