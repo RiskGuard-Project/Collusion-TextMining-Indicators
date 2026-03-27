@@ -1,7 +1,7 @@
 # Collusion-TextMining-Indicators
 Risk indicators development in portuguese public procurement (https://doi.org/10.54499/2024.07601.IACDC)
 
-The riskguard project integrates the development of two key indicators for public procurement using data from portuguese procurement contracts. 
+The riskguard project integrates the development of key indicators for public procurement using data from portuguese procurement contracts. 
 
 ## 🧠 Motivation
 
@@ -11,7 +11,8 @@ The riskguard project integrates the development of two key indicators for publi
 
 ### RiskGuard addresses this by combining:
 - Unsupervised learning (to discover latent structures)
-- Text Mining techniques for procurement texts.
+- Enrichment with Arquivo.pt data
+- Text Mining techniques for procurement texts
 
 The project structure is as follows
 ```bash
