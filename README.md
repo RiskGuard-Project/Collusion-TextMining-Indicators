@@ -6,13 +6,9 @@ The riskguard project integrates the development of two key indicators for publi
 🧠 Motivation
 
 Collusion and irregular behaviour in procurement is inherently difficult to detect due to:
-
-❌ Lack of labeled data
-
-⚖️ Legal and textual ambiguity
+- Lack of labeled data
+- Legal and textual ambiguity
 
 RiskGuard addresses this by combining:
-
-📊 Unsupervised learning (to discover latent structures)
-
-🔎 Text Mining techniques for procurement texts.
+- Unsupervised learning (to discover latent structures)
+- Text Mining techniques for procurement texts.
